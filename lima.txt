@@ -1,3 +1,1 @@
-ini file lima.txt ini file lima.txt ini file lima.txt ini file lima.txt
-develop 2 ----- juga nambah baris nih
-develop 2 ----- juga nambah baris lagi nih
+
