@@ -1,1 +1,3 @@
 ini dua
+devel1 --- edit teks
+devel1 --- edit teks
